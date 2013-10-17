@@ -1,0 +1,2 @@
+Programming exercises for the Coursera Machine Learning course
+https://www.coursera.org/course/ml
