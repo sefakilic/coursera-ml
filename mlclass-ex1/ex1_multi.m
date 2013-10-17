@@ -106,7 +106,6 @@ fprintf('\n');
 % not need to be normalized.
 price = 0; % You should change this
 
-
 % ============================================================
 
 fprintf(['Predicted price of a 1650 sq-ft, 3 br house ' ...
