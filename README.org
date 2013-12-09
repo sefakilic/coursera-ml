@@ -1,2 +1,2 @@
-Programming exercises for the [[https://www.coursera.org/course/ml][the Coursera Machine Learning course]] by Andrew Ng.
+Assignments for the [[https://www.coursera.org/course/ml][the Coursera Machine Learning course]] by Andrew Ng.
 
